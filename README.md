@@ -1,1 +1,1 @@
-# cronometro.py
+# Cronometro.py
